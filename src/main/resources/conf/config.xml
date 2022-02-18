@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<!--ANDROID-->
+
+
+    <entry key="ENVIRONMENT">Des</entry>
+    <entry key="IMPLICIT_WAIT">60</entry>
+
+
+</properties>

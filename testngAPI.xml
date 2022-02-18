@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ApisTesting" >
+    <test name="ApisTesting" >
+        <parameter name="jsonConfigFile" value="single.conf.json"/>
+        <parameter name="environment" value="DEV"/>
+        <parameter name="os" value="NONE" />
+        <parameter name="mode" value="API" />
+        <parameter name="url" value="https://reqres.in/api" />
+
+        <classes>
+            <class name ="automation_frontend.DesaRunner"></class>
+        </classes>
+    </test>
+</suite>

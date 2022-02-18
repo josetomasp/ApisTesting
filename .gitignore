@@ -1,0 +1,17 @@
+/automation-frontend.iml
+
+.DS_Store
+
+target/
+
+*.mp4
+*.tiff
+*.avi
+*.flv
+*.mov
+*.wmv
+.idea
+*.exe
+*.png
+
+Thumbs.db
